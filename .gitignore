@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env
+
+# Models and Data
+models/*.joblib
+data/data.txt
+
+# IDE
+.vscode/
+.idea/

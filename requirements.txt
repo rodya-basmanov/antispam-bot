@@ -1,0 +1,7 @@
+aiogram>=3.4.1
+scikit-learn>=1.4.0
+pandas>=2.2.0
+nltk>=3.8.1
+pymorphy3>=2.1
+python-dotenv>=1.0.1
+joblib>=1.3.2
